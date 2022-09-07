@@ -10,10 +10,10 @@
 "user": ["oPL0m6O20aqwa-g-DYmO8iE68g7c"],
 
 # 信息配置
-# 和风天气apikey
-"weather_key": "dad2f3466aca4bc6951b2cab3ea1ab0a",
-# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "绛县",
+# 所在省份
+"province": "山西",
+# 所在城市
+"city": "运城",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "张芳芝", "birthday": "r2000-07-13"},
 # 生日2
